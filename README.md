@@ -2,7 +2,7 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/bmariesan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I'm+Bogdan+Mariesan;Director+of+Engineering+%40+Tekmetric;Cloud+%26+Platform+Strategist;Scaling+Teams%2C+Platforms+%26+AI%2FML+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&height=60&lines=Hi+%F0%9F%91%8B+I'm+Bogdan+Mariesan;Director+of+Engineering+%40+Tekmetric;Cloud+%26+Platform+Strategist;Scaling+Teams%2C+Platforms+%26+AI%2FML+Innovation" alt="Typing SVG" />
 </a>
 
 <br/>
