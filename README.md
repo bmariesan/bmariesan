@@ -1,46 +1,96 @@
-### Welcome friends to my humble Github profile 👋, I am Bogdan Mariesan
+<div align="center">
 
-A Senior Java Software Developer and Software Architect with over 11 years of experience, including 4+ years of team leading.
+<!-- Typing animation header -->
+<a href="https://github.com/bmariesan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I'm+Bogdan+Mariesan;Director+of+Engineering+%40+Tekmetric;Cloud+%26+Platform+Strategist;Scaling+Teams%2C+Platforms+%26+AI%2FML+Innovation" alt="Typing SVG" />
+</a>
 
-I'm really passionate about event driven architecture, IoT and Kubernetes so if you want to stay in contact, feel free to connect on [Linkedin](https://www.linkedin.com/in/bogdanmariesan)
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdanmariesan)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOGaI0WQ3a5ay0pcBCHYB1A?sub_confirmation=1)
+![Profile Views](https://komarev.com/ghpvc/?username=bmariesan&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)
 
-🧰 Tech I love working with
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="Gradle" width="50" height="50"/>
-
+</div>
 
 ---
 
-📘 Latest Blog Articles
+### 🧑‍💻 About me
 
-<!-- BLOG-POST-LIST:START -->
-Soon...
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles]()
+- 🚀  **Director of Engineering – Platform @ Tekmetric.** Engineering leader with **14+ years** building and scaling platforms, cloud infrastructure, and product engineering teams in high-growth environments.
+- 📈  Scaled Tekmetric's engineering org from **under a dozen to 50+ engineers** and built its Platform & Infrastructure teams from scratch.
+- 💳  Architected a **payments orchestration platform** (Stripe Connect + multi-provider) processing **billions of dollars in transactions yearly**.
+- 🛡️  Pioneered security practices that deflected **large-scale DDoS attacks** on mission-critical systems.
+- 🤖  Spearheading research in **data-at-scale, ML & LLMs**, and stood up a new **Python department** to unlock new product verticals.
+- 🎤  International conference speaker on **high-performance systems** and **AI in retail**.
+- 🌍  Based in **Cluj-Napoca, Romania** — always happy to connect on [LinkedIn](https://www.linkedin.com/in/bogdanmariesan).
 
 ---
 
-📺 Latest YouTube Videos
+### 🧰 Tech I love working with
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [High performance message brokers out of the IoT world](https://www.youtube.com/watch?v=hdeD4koSoBY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UCOGaI0WQ3a5ay0pcBCHYB1A?sub_confirmation=1)
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+### 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmariesan&count_private=true&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- These SVGs are generated by the Metrics GitHub Action (.github/workflows/metrics.yml)
+     and committed to the repo, so they never depend on a third-party live service. -->
+<div align="center">
 
-[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmariesan&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="./github-metrics.svg" alt="Bogdan's GitHub metrics" />
 
+<img src="./github-metrics-isocalendar.svg" alt="Contribution calendar" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<!-- Generated by the snake GitHub Action (.github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bmariesan/bmariesan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bmariesan/bmariesan/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bmariesan/bmariesan/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
